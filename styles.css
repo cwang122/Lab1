@@ -1,0 +1,50 @@
+.html_body {
+    margin: 0px;
+
+}
+
+.header {
+    height: 60px;
+    line-height: 60px;
+    padding: 20px;
+    background-color: yellow
+}
+
+h1 {
+    float: left;
+    margin: 0px;
+}
+
+.unordered-list {
+    float: right;
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+}
+
+.list-items {
+    float: left;
+    padding-left: 30px;
+    padding-right: 10px;
+    text-decoration: none;
+}
+
+.content {
+    width: 70%;
+    float: left;
+    background-color: linen;
+    min-height:500px;
+}
+
+.sidebar {
+    width: 30%;
+    float: left;
+    background-color: darkgray;
+    color: white;
+    min-height:500px;
+}
+
+.paragraph {
+    margin: 20px;
+}
+
