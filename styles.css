@@ -48,3 +48,20 @@ h1 {
     margin: 20px;
 }
 
+
+.blog-post {
+    margin: 10px;
+    border:2px solid lightgray;
+    background-color: white;
+    border-radius: 5px;
+    padding: 10px;
+    box-shadow: 5px;
+}
+
+#img {
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 15px;
+    border:1px solid black;
+    margin-top: 15px;
+}
